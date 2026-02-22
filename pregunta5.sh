@@ -127,3 +127,4 @@
   127  ls
   128  touch accept.txt; ls > accept.txt; history | grep "ls" >> accept.txt; history > pregunta5.sh
   129  ls
+  130  exit
